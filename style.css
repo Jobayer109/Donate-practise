@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.start-page {
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    position: relative;
+
+}
+
+.start-page h1 {
+    font-size: 60px;
+}
+
+.Link-button {
+    margin-top: 100px;
+}
